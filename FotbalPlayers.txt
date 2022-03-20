@@ -1,0 +1,12 @@
+12
+1;Popa Andrei;18;1,80;a jucat in 3 echipe
+2;Stancu Radu;27;1,85;a jucat in 7 echipe
+3;Beclea Victor;23;1,77;a jucat in 5 echipe
+4;Popescu Ion;29;1,79;a jucat in 9 echipe
+5;David Alexei;21;1,85;a jucat in 0 echipe
+6;Popescu Daniel;14;1,80;6 luni
+7;Popa George;17;1,89;incepator
+8;a;3;12;da
+9;gggh;78;5.78;fghjk
+10;Mircea Laur;27;1,90;avansat
+11;Nicu Andrei;25;1,90;avansat
